@@ -1,6 +1,6 @@
 # Network Analysis on Trade Agreements
 Dataset found at [cepii](https://www.cepii.fr/CEPII/en/welcome.asp)<br>
-
+For the Slides Presentation with all the results [Google Slides](https://docs.google.com/presentation/d/1Ony-XhAuKDaJWteTmfyIP0csarFuA_iZ/edit?usp=sharing&ouid=113819025482606470224&rtpof=true&sd=true)
 ## Hypotheses
 - Communities will be structured around trade agreements and continents
 - United States and China would be the most central countries
@@ -16,4 +16,21 @@ Dataset found at [cepii](https://www.cepii.fr/CEPII/en/welcome.asp)<br>
 - Node Size: A node scales in size in accordance to the "economy" of a country. Economy defined as the total monetary movement of a country.
 
 ## Results
-<img src="./images/topEconomies.png" alt="drawing"/>
+### Top 10 Economies
+<img src="./images/topEconomies.png" alt="Top Economies"/>
+
+### Graphs of Trade Agreements
+<img src="./images/Europe_TradeAgreement.png" alt="Europe Trade Agreement">
+<img src="./images/RCEP_TradeAgreement.png" alt="Asia Trade Agreement">
+<img src="./images/Europe_TradeAgreement.png" alt="Africa Trade Agreement">
+
+### Communities found using Louvain Algorithm
+<img src="./images/global_community" alt="Global Communities">
+
+### Communities by Region
+<img src="./images/Asia_Communities.png" alt="Asia Region">
+### Asia
+<img src="./images/Europe_Communities.png" alt="Europe Region">
+### Europe
+As we can see in these samples, communities are well defined within a particular region. For instance, in the Asian Region, all the arab countries are in their own community. Or in the European Region, the communities are divided as North Europe, East Europe, etc... 
+
