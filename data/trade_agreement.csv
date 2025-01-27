@@ -1,0 +1,92 @@
+Country Code,Country,Trade Agreement
+40,Austria,EEA
+56,Belgium,EEA
+100,Bulgaria,EEA
+191,Croatia,EEA
+196,Cyprus,EEA
+203,Czechia,EEA
+208,Denmark,EEA
+233,Estonia,EEA
+246,Finland,EEA
+251,France,EEA
+276,Germany,EEA
+300,Greece,EEA
+348,Hungary,EEA
+372,Ireland,EEA
+380,Italy,EEA
+428,Latvia,EEA
+440,Lithuania,EEA
+442,Luxembourg,EEA
+470,Malta,EEA
+528,Netherlands,EEA
+616,Poland,EEA
+620,Portugal,EEA
+642,Romania,EEA
+703,Slovakia,EEA
+705,Slovenia,EEA
+724,Spain,EEA
+752,Sweden,EEA
+842,USA,USMCA
+484,Mexico,USMCA
+124,Canada,USMCA
+36,Australia,RCEP
+156,China,RCEP
+392,Japan,RCEP
+410,Rep. of Korea,RCEP
+458,Malaysia,RCEP
+702,Singapore,RCEP
+764,Thailand,RCEP
+704,Viet Nam,RCEP
+12,Algeria,AfCFTA
+24,Angola,AfCFTA
+72,Botswana,AfCFTA
+108,Burundi,AfCFTA
+120,Cameroon,AfCFTA
+132,Cabo Verde,AfCFTA
+140,Central African Rep.,AfCFTA
+148,Chad,AfCFTA
+174,Comoros,AfCFTA
+178,Congo,AfCFTA
+180,Dem. Rep. of the Congo,AfCFTA
+204,Benin,AfCFTA
+231,Ethiopia,AfCFTA
+232,Eritrea,AfCFTA
+262,Djibouti,AfCFTA
+270,Gambia,AfCFTA
+324,Guinea,AfCFTA
+384,Côte d'Ivoire,AfCFTA
+404,Kenya,AfCFTA
+426,Lesotho,AfCFTA
+430,Liberia,AfCFTA
+450,Madagascar,AfCFTA
+454,Malawi,AfCFTA
+478,Mauritania,AfCFTA
+480,Mauritius,AfCFTA
+508,Mozambique,AfCFTA
+516,Namibia,AfCFTA
+562,Niger,AfCFTA
+566,Nigeria,AfCFTA
+646,Rwanda,AfCFTA
+686,Senegal,AfCFTA
+694,Sierra Leone,AfCFTA
+706,Somalia,AfCFTA
+710,South Africa,AfCFTA
+728,South Sudan,AfCFTA
+729,Sudan,AfCFTA
+748,Eswatini,AfCFTA
+800,Uganda,AfCFTA
+834,United Rep. of Tanzania,AfCFTA
+854,Burkina Faso,AfCFTA
+894,Zambia,AfCFTA
+716,Zimbabwe,AfCFTA
+32,Argentina,MERCOSUR
+68,Bolivia (Plurinational State of),MERCOSUR
+76,Brazil,MERCOSUR
+152,Chile,MERCOSUR
+170,Colombia,MERCOSUR
+218,Ecuador,MERCOSUR
+328,Guyana,MERCOSUR
+600,Paraguay,MERCOSUR
+604,Peru,MERCOSUR
+740,Suriname,MERCOSUR
+858,Uruguay,MERCOSUR

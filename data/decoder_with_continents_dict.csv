@@ -1,0 +1,239 @@
+,country_code,country_name,continent
+0,4,Afghanistan,Asia
+1,8,Albania,Europe
+2,12,Algeria,Africa
+3,16,American Samoa,
+4,20,Andorra,Europe
+5,24,Angola,Africa
+6,28,Antigua and Barbuda,North America
+7,31,Azerbaijan,Europe
+8,32,Argentina,South America
+9,36,Australia,Oceania
+10,40,Austria,Europe
+11,44,Bahamas,North America
+12,48,Bahrain,Asia
+13,50,Bangladesh,Asia
+14,51,Armenia,Europe
+15,52,Barbados,North America
+16,56,Belgium,Europe
+17,58,Belgium-Luxembourg (...1998),Europe
+18,60,Bermuda,
+19,64,Bhutan,Asia
+20,68,Bolivia (Plurinational State of),South America
+21,70,Bosnia Herzegovina,Europe
+22,72,Botswana,Africa
+23,76,Brazil,South America
+24,84,Belize,Central America
+25,86,Br. Indian Ocean Terr.,
+26,90,Solomon Isds,Oceania
+27,92,Br. Virgin Isds,
+28,96,Brunei Darussalam,Asia
+29,100,Bulgaria,Europe
+30,104,Myanmar,Asia
+31,108,Burundi,Africa
+32,112,Belarus,Europe
+33,116,Cambodia,Asia
+34,120,Cameroon,Africa
+35,124,Canada,North America
+36,132,Cabo Verde,Africa
+37,136,Cayman Isds,
+38,140,Central African Rep.,Africa
+39,144,Sri Lanka,Asia
+40,148,Chad,Africa
+41,152,Chile,South America
+42,156,China,Asia
+43,162,Christmas Isds,
+44,166,Cocos Isds,
+45,170,Colombia,South America
+46,174,Comoros,Africa
+47,175,Mayotte (Overseas France),
+48,178,Congo,Africa
+49,180,Dem. Rep. of the Congo,Africa
+50,184,Cook Isds,Oceania
+51,188,Costa Rica,Central America
+52,191,Croatia,Europe
+53,192,Cuba,North America
+54,196,Cyprus,Europe
+55,200,Czechoslovakia (...1992),
+56,203,Czechia,Europe
+57,204,Benin,Africa
+58,208,Denmark,Europe
+59,212,Dominica,North America
+60,214,Dominican Rep.,
+61,218,Ecuador,South America
+62,222,El Salvador,Central America
+63,226,Equatorial Guinea,Africa
+64,231,Ethiopia,Africa
+65,232,Eritrea,Africa
+66,233,Estonia,Europe
+67,238,Falkland Isds (Malvinas),
+68,242,Fiji,Oceania
+69,246,Finland,Europe
+70,251,France,Europe
+71,258,French Polynesia,Oceania
+72,260,Fr. South Antarctic Terr.,
+73,262,Djibouti,Africa
+74,266,Gabon,Africa
+75,268,Georgia,Europe
+76,270,Gambia,Africa
+77,275,State of Palestine,Asia
+78,276,Germany,Europe
+79,278,Dem. Rep. of Germany (...1990),
+80,280,Fed. Rep. of Germany (...1990),
+81,288,Ghana,Africa
+82,292,Gibraltar,
+83,296,Kiribati,Oceania
+84,300,Greece,Europe
+85,304,Greenland,North America
+86,308,Grenada,North America
+87,316,Guam,Oceania
+88,320,Guatemala,Central America
+89,324,Guinea,Africa
+90,328,Guyana,South America
+91,332,Haiti,North America
+92,340,Honduras,Central America
+93,344,"China, Hong Kong SAR",Asia
+94,348,Hungary,Europe
+95,352,Iceland,Europe
+96,360,Indonesia,Asia
+97,364,Iran,Asia
+98,368,Iraq,Asia
+99,372,Ireland,Europe
+100,376,Israel,Asia
+101,380,Italy,Europe
+102,384,Côte d'Ivoire,Africa
+103,388,Jamaica,North America
+104,392,Japan,Asia
+105,398,Kazakhstan,Asia
+106,400,Jordan,Asia
+107,404,Kenya,Africa
+108,408,Dem. People's Rep. of Korea,Asia
+109,410,Rep. of Korea,Asia
+110,414,Kuwait,Asia
+111,417,Kyrgyzstan,Asia
+112,418,Lao People's Dem. Rep.,Asia
+113,422,Lebanon,Asia
+114,426,Lesotho,Africa
+115,428,Latvia,Europe
+116,430,Liberia,Africa
+117,434,Libya,Africa
+118,440,Lithuania,Europe
+119,442,Luxembourg,Europe
+120,446,"China, Macao SAR",Asia
+121,450,Madagascar,Africa
+122,454,Malawi,Africa
+123,458,Malaysia,Asia
+124,462,Maldives,Asia
+125,466,Mali,Africa
+126,470,Malta,Europe
+127,478,Mauritania,Africa
+128,480,Mauritius,Africa
+129,484,Mexico,North America
+130,490,"Other Asia, nes",
+131,496,Mongolia,Asia
+132,498,Rep. of Moldova,
+133,499,Montenegro,Europe
+134,500,Montserrat,
+135,504,Morocco,Africa
+136,508,Mozambique,Africa
+137,512,Oman,Asia
+138,516,Namibia,Africa
+139,520,Nauru,Oceania
+140,524,Nepal,Asia
+141,528,Netherlands,Europe
+142,530,Netherlands Antilles (...2010),Europe
+143,531,Curaçao,South America
+144,533,Aruba,South America
+145,534,Saint Maarten,North America
+146,535,Bonaire,South America
+147,540,New Caledonia,Oceania
+148,548,Vanuatu,Oceania
+149,554,New Zealand,Oceania
+150,558,Nicaragua,Central America
+151,562,Niger,Africa
+152,566,Nigeria,Africa
+153,570,Niue,Oceania
+154,574,Norfolk Isds,Oceania
+155,579,Norway,Europe
+156,580,N. Mariana Isds,Oceania
+157,583,FS Micronesia,Oceania
+158,584,Marshall Isds,Oceania
+159,585,Palau,Oceania
+160,586,Pakistan,Asia
+161,591,Panama,Central America
+162,598,Papua New Guinea,Oceania
+163,600,Paraguay,South America
+164,604,Peru,South America
+165,608,Philippines,Asia
+166,612,Pitcairn,Oceania
+167,616,Poland,Europe
+168,620,Portugal,Europe
+169,624,Guinea-Bissau,Africa
+170,626,Timor-Leste,Asia
+171,634,Qatar,Asia
+172,642,Romania,Europe
+173,643,Russian Federation,Asia
+174,646,Rwanda,Africa
+175,652,Saint Barthélemy,North America
+176,654,Saint Helena,Africa
+177,659,Saint Kitts and Nevis,North America
+178,660,Anguilla,North America
+179,662,Saint Lucia,North America
+180,666,Saint Pierre and Miquelon,North America
+181,670,Saint Vincent and the Grenadines,North America
+182,674,San Marino,Europe
+183,678,Sao Tome and Principe,Africa
+184,682,Saudi Arabia,Asia
+185,686,Senegal,Africa
+186,688,Serbia,Europe
+187,690,Seychelles,Africa
+188,694,Sierra Leone,Africa
+189,697,"Europe EFTA, nes",
+190,699,India,Asia
+191,702,Singapore,Asia
+192,703,Slovakia,Europe
+193,704,Vietnam,Asia
+194,705,Slovenia,Europe
+195,706,Somalia,Africa
+196,710,South Africa,Africa
+197,711,Southern African Customs Union (...1999),
+198,716,Zimbabwe,Africa
+199,724,Spain,Europe
+200,728,South Sudan,Africa
+201,729,Sudan,Africa
+202,736,Sudan (...2011),Africa
+203,740,Suriname,South America
+204,748,Eswatini,Africa
+205,752,Sweden,Europe
+206,757,Switzerland,Europe
+207,760,Syria,Asia
+208,762,Tajikistan,Asia
+209,764,Thailand,Asia
+210,768,Togo,Africa
+211,772,Tokelau,
+212,776,Tonga,Oceania
+213,780,Trinidad and Tobago,North America
+214,784,United Arab Emirates,Asia
+215,788,Tunisia,Africa
+216,792,Türkiye,Europe
+217,795,Turkmenistan,Asia
+218,796,Turks and Caicos Isds,North America
+219,798,Tuvalu,Oceania
+220,800,Uganda,Africa
+221,804,Ukraine,Europe
+222,807,North Macedonia,Europe
+223,810,USSR (...1990),
+224,818,Egypt,Africa
+225,826,United Kingdom,Europe
+226,834,United Rep. of Tanzania,Africa
+227,842,USA,North America
+228,849,US Misc. Pacific Isds,North America
+229,854,Burkina Faso,Africa
+230,858,Uruguay,South America
+231,860,Uzbekistan,Asia
+232,862,Venezuela,South America
+233,876,Wallis and Futuna Isds,Oceania
+234,882,Samoa,Oceania
+235,887,Yemen,Asia
+236,891,Serbia and Montenegro (...2005),Europe
+237,894,Zambia,Africa
