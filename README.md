@@ -32,5 +32,5 @@ Asian Region<br>
 <img src="./images/Asia_Communities.png" alt="Asia Region"><br>
 European Region<br>
 <img src="./images/Europe_Communities.png" alt="Europe Region">
-As we can see in these samples, communities are well defined within a particular region. For instance, in the Asian Region, all the arab countries are in their own community. Or in the European Region, the communities are divided as North Europe, East Europe, etc... 
+<br>As we can see in these samples, communities are well defined within a particular region. For instance, in the Asian Region, all the arab countries are in their own community. Or in the European Region, the communities are divided as North Europe, East Europe, etc... 
 
